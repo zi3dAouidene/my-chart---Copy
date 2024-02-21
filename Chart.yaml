@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-chart
+description: A Helm Chart for deploying the simple-webapp-color application
+version: 0.1.0
